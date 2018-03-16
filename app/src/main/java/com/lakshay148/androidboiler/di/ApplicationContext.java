@@ -5,5 +5,5 @@ package com.lakshay148.androidboiler.di;
  * since 3/15/18
  */
 
-public interface ApplicationContext {
+public @interface ApplicationContext {
 }
